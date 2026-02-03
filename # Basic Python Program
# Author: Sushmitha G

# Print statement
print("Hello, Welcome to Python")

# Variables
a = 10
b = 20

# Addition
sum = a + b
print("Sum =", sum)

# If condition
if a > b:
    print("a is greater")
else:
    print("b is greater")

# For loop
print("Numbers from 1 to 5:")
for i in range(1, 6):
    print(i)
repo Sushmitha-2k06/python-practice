@@ -1,0 +1,24 @@
+# Basic Python Program
+# Author: Sushmitha G
+
+# Print statement
+print("Hello, Welcome to Python")
+
+# Variables
+a = 10
+b = 20
+
+# Addition
+sum = a + b
+print("Sum =", sum)
+
+# If condition
+if a > b:
+    print("a is greater")
+else:
+    print("b is greater")
+
+# For loop
+print("Numbers from 1 to 5:")
+for i in range(1, 6):
+    print(i)
